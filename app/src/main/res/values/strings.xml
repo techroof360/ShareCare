@@ -1,0 +1,239 @@
+<resources>
+    <string name="app_name">Care Finder©</string>
+    <string name="app_name_slogan">urgent messages</string>
+
+    <string name="give_correct_information">Please give your correct information. Because, your email &amp; phone number needs to be verification.</string>
+
+    <!-- My Common Strings -->
+    <string name="student_name">Aamir Latif</string>
+    <string name="copyright">Developers © 2020</string>
+    <string name="profile_settings">My Profile</string>
+    <string name="theaamirbd">TheAamirBD</string>
+    <string name="log_in">Log In</string>
+    <string name="log_out">Log Out</string>
+    <string name="profile">Profile</string>
+    <string name="friends">Friends</string>
+    <string name="about_app">Community Info</string>
+    <string name="all_peoples">Peoples</string>
+    <string name="all_friends">Friends</string>
+
+
+    <!-- Slider Screen Strings -->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+    <string name="title_slide1">Care Finder©</string>
+    <string name="desc_slide1">You can find a large number of people to Care and Safe your life here.</string>
+    <string name="title_slide2">No Cost</string>
+    <string name="desc_slide2">Care Finder©, Its completely FREE of cost, no subscription fee for using.</string>
+    <string name="title_slide3">Chatting</string>
+    <string name="desc_slide3">fully one to one personal chatting system with Doctors and Specialists.</string>
+    <string name="title_slide4">Secure</string>
+    <string name="desc_slide4">Care Finder© Keeps your profile secure forever.</string>
+    <string name="security_text">An IT Security Policy identifies the rules and procedures for all individuals accessing and using an organizations IT assets and resources. The objectives of an IT security policy is the preservation of confidentiality, integrity, and availability of systems and information used by an organizations members.</string>
+
+
+    <!-- About App Strings -->
+    <string name="varsity_name">MicroStarX</string>
+    <string name="instructor1_name">Aamir Latif</string>
+    <string name="instructor_name">Android Developer</string>
+    <string name="about_text">This application is built for learning purpose.\nProject Source Code Link-</string>
+    <string name="project_git_link"><u>https://techroofsoftring.000webhostapp.com</u></string>
+    <string name="about_app_detail">x</string>
+    <string name="student_id_details">Computer Science &amp; Software Engineering\nID: 2015-GCUF-2019</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- Social auth strings for connection -->
+    <string name="facebook_app_id">3285511318144122</string>
+    <string name="fb_login_protocol_scheme">fb3285511318144122</string>
+
+    <!-- Remove or change this placeholder text -->
+    <string name="on_internet_msg">No internet connection! Please check internet.</string>
+    <string name="menu_search">Search</string>
+    <string name="register_success_popup">Registered successfully.<br /> Verification email has been sent.\nPlease verify email.</string>
+    <string name="request_success_popup">Request sent successfully.\nVerification email has been sent.\nPlease check on your email.</string>
+    <string name="recheck_gender">To save your changes, please check/recheck your GENDER.</string>
+
+    <string-array name="spinerViewPeople">
+        <item>Default</item>
+        <item>Name</item>
+        <item>Date</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="jobs_fragment">Jobs fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="career_fragment">Careers fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home fragment</string>
+    <string name="username">Username</string>
+    <string name="write_your_status_here">User Status</string>
+    <string name="home">Home</string>
+    <string name="admin_access">World Health Services</string>
+    <string name="messages">Local Care Centers</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="logout">Nearest Care Center</string>
+    <string name="conditions">CONDITIONS</string>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Close Drawer</string>
+    <string name="developed_by">developed by-</string>
+    <string name="https_www_microstarx_net">https://www.microstarx.net</string>
+    <string name="developer_dugout">Career Adviser©</string>
+    <string name="careers_stands">CAREERS STANDS</string>
+    <string name="share">Share</string>
+    <string name="help">Help &amp; Support</string>
+    <string name="security">Security</string>
+    <string name="career_adviser">Care Finder© on your smart phone!</string>
+    <string name="please_select_some_stars_and_give_your_feedback">please select some stars and give your feedback</string>
+    <string name="very_bad">VERY BAD</string>
+    <string name="excellent">EXCELLENT</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="new_here_create_an_account">Don\'t have an account? Sign Up</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="update_blog_on">update meeting on </string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="blog_description">Blog Description</string>
+    <string name="_0_likes">Likes</string>
+    <string name="write_post_quote">Description…</string>
+    <string name="write_patientName">Patient name…</string>
+    <string name="write_patientDisease">type of disease…</string>
+    <string name="write_patientAge">Age…</string>
+    <string name="write_patientDate">Date…</string>
+    <string name="write_patientMobile">Mobile No…</string>
+    <string name="write_hospitalAddress">Care center address…</string>
+    <string name="write_patientTime">Meeting time…</string>
+    <string name="post_now">SUBMIT</string>
+    <string name="update">Update</string>
+    <string name="update_your_status">Update your status…</string>
+    <string name="title_activity_settings">Settings</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="last_date_for_apply_on_this_available_opportunity_is_30_6_2020">Last date for apply on this available opportunity is 30-6-2020</string>
+    <string name="user_name">user_name</string>
+    <string name="update_post_on">update post</string>
+    <string name="post_description">Latest Jobs are available on different post, apply on their interest and get your dreams,</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="security_Info">Care Finder app security is the extent of protection that mobile device applications (apps) have from Malware and the activities of crackers and other criminals. The term can also refer to various technologies and production practices that minimize the risk of exploits to mobile devices through their apps.</string>
+    <string name="registered_email">Registered Email</string>
+    <string name="public_posts">Current Meetings</string>
+    <string name="type_a_comment">type a comment</string>
+    <string name="comment_on">comment on</string>
+    <string name="comments_text_show_here">comment text show here</string>
+    <string name="todo">TODO</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contact_us">Contact Us</string>
+    <string name="title_activity_terms_conditions">Terms &amp; Conditions</string>
+    <string name="title_activity_app_info">Communities Information</string>
+    <string name="contact_form_name">Your Name</string>
+    <string name="contact_form_email">Your Email</string>
+    <string name="contact_form_subject">Subject</string>
+    <string name="contact_form_message">Message</string>
+    <string name="contact_form_button">Send Message</string>
+    <string name="covid19">In COVID-19 section where we are updating statistic, addressing concern, verifying information, busting myths, sharing resources and providing guidance on where &amp; when to get assistance.</string>
+    <string name="large_text">
+        "<b>Care Finder FAQ\'s…</b>"
+    "Everyone can ask questions about health and personal human queries there without hesitation in Pakistan and all over the world. We have listed them here to help you complete for your Care Advising Strategies. If you have any suggestions for further questions we might add, please do not hesitate to contact us at: info@carefinder.com.\n\n
+        "<b>1. What is the Care Finder© Application?</b>"
+    "Its one of the best ways to search and apply for different treatments for their cares.
+    It saves you time as over 600 plus job opportunities in Pakistan (and 33 overseas as well) accept the Care Finder© Application.
+    This means you only need to complete one application and you can apply to as many treatments opportunities as you want
+    (as long as you meet their entry requirements). Although in practice, its best applying to no more
+    than 4 to 6.\n\n
+        "<b>2. How do I apply for treatment?</b>"
+    "You get doctors online at carefinder.org,
+    As well as the application itself you will find detailed step by step guides and videos on how to complete the application. It also features essential information on member jobs and the courses they offer.
+    Detailed information on filling out the Common App can be found in our guide.\n\n
+        "<b>3. Should I apply directly to a job or via the Care Finder© Application?</b>"
+    "All opportunities who accept Care Applications have committed that you will receive equal preference
+    regardless of whether you apply directly or through the Care Finder© Application portal.
+    Applying with the Care Finder© Application cuts down your time as its one application for multiple treatments.\n\n
+        "<b>4. What grades do I need to apply for treatments?</b>"
+    "All doctors define reports will have individual and pairs for each of the opportunity you are choosing to
+    care center.
+    Its vital that you spend time researching the job section of the Care Finder© Application or website as this will
+    list all the centers you need for hiring specific care.
+    If you are not sure which career or opportunity is right for you, why not refer to Care Finder© Choosing A Care center
+    and Choosing A Major guides, as well as the online Doctor find Care Reports Grid.
+    This will give you a quick overview of all the reports, their care, deadline dates to apply and if they
+    require extra on top of the application details etc.
+    This is likely in about 1/3rd of all member care.\n\n
+        "<b>5. Do I need anything else apart from my soul?</b>"
+    "As well as your SAT/ACT grades, your courses and credits and other, you will need to
+    complete all key sections of the application. Its essential you write a 250 word personal essay.
+    This will be on one of subjects specified in the application. Please read all of them and pick the one you
+    believe is your strongest and you could select about with honesty and real life examples.
+    In addition you will be asked for information on your personal and family situation, and any extra-curricular
+    activities for job environment.
+    This could be a course club or representation you take part in, or volunteer work at their best, or a paid part-time
+    or summer treatments you have. Do not be shy. This is your chance to shine and write a personal statement to
+    show what a normal person you are!.
+    Your doctor recruitment man will also write a reference about you as a patient.\n\n
+        "<b>6. When should I apply for course?</b>"
+    "This depends on which disease you have and whether you are a first attempt or transfer
+    other dept (as you can apply via the Career Adviser Application for both).
+    The dates change if you are applying for an early decision, early action or regular job deadline.
+    The vast majority of consumers apply on the regular positions plan.
+    Please check your specific deadline dates carefully.\n\n
+        "<b>7. Can companies see who else I have applied to?</b>"
+    "Yes.
+    Each care center sees your Application in full except for the other you have applied for in your
+    My patient list.
+    However, they will be able to read your personal statements that you have written so please make sure its not
+    specific to one skill.\n\n
+        "<b>8. Whats the difference between the Care Finder© Application and the Universal Care Application?</b>"
+    "The Care Finder© Application has over 600 plus Universal Care Application (UCA) only has 43
+    companies members.
+    The Care Finder© Application gives you a structure and points to write your report essay on whereas with
+    the UCA you choose the subject you write about and its free style. You can upload multimedia content
+    as well.
+    Each have equal weighting with the member course. ensure all of them
+    are on the same application system and register using that one.
+    If they are all on both consider the types of personal statement you have to write and aim for the one
+    you are best at.\n\n
+        "<b>9. Are there any centers that do not use the Care Finder© Application or the Universal Care Application systems?</b>"
+    "Yes, some companies have decided not to use either of these systems. Notable to be include:\n
+    As a general rule, public treatments tend to have their own systems, and some career on the CF and UCA
+    also offer their own online application systems.
+    To check if a jobs is on the UCA or CF, simply go to the list of UCA and CF, and see if the
+    job is on the list (use a CTRL-F search to find out quickly).
+    If they do not use the Care Finder© App or UCA, they will outline specific instructions on how to apply which you
+    should follow carefully to ensure you have met all of their requirement.
+    If you are mostly applying to jobs that do not use the UCA or CF, for the few to that do
+    use those applications, you might have a bit more flexibility.\n\n
+        "<b>10. Further information:</b>"
+    "For more tips and advice on putting together your Common Application for college, please see: <a href="https://www.shifa4u.com/" target="blank">Care Finder©.</a>"
+    </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dua">اَسْأَلُ اللّٰہَ الْعَظِیْمَ رَبَّ الْعَرْشِ الْعَظِیْمِ اَنْ یَّشْفِیَکَ۔(عرش عظیم کے بلند وبالا خدا سے آپ کی صحت کا سؤال کرتا ہوں۔)</string>
+</resources>

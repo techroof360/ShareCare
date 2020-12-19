@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "835211061753",
+    "firebase_url": "https://care-taker-8d431.firebaseio.com",
+    "project_id": "care-taker-8d431",
+    "storage_bucket": "care-taker-8d431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835211061753:android:efa289265c86f7f1a2f528",
+        "android_client_info": {
+          "package_name": "com.shashank.platform.ct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835211061753-o8b5ekc33g0cc5indt2rkkaicvc11l96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvyVsN2LqUIUzkEkBJnlbQTpNW32zHjrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835211061753-o8b5ekc33g0cc5indt2rkkaicvc11l96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835211061753:android:12142c9c2728bd27a2f528",
+        "android_client_info": {
+          "package_name": "com.softring.techroof.ct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835211061753-o8b5ekc33g0cc5indt2rkkaicvc11l96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvyVsN2LqUIUzkEkBJnlbQTpNW32zHjrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835211061753-o8b5ekc33g0cc5indt2rkkaicvc11l96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835211061753:android:b7c9317c4da487daa2f528",
+        "android_client_info": {
+          "package_name": "com.softring.techroof.sharecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835211061753-o8b5ekc33g0cc5indt2rkkaicvc11l96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvyVsN2LqUIUzkEkBJnlbQTpNW32zHjrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835211061753-o8b5ekc33g0cc5indt2rkkaicvc11l96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
