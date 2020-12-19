@@ -44,7 +44,6 @@ public class SearchActivity extends AppCompatActivity {
     private RecyclerView peoples_list;
     private DatabaseReference peoplesDatabaseReference;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
